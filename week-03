@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Jane Bowman</title>
+    </head>
+    <body>
+        <h1>Jane Bowman</h1>
+        <header>
+            <p>Syracuse University iSchool .</p>
+        </header>
+    </body>
+    <body>
+        <h1>SKILLS</h1>
+            <ul>
+                <li>Python</li>
+                <li>SQL</li>
+                <li>Photoshop</li>
+                <li>Illustrator</li>
+                <li>Lightroom</li>
+                <li>Powerpoint</li>
+                <li>Excel</li>
+            </ul>
+        <h1>CONTACT</h1>
+            <p>Email: jane.bowman05@gmail.com</p>
+            <p>LinkedIn: linkedin.com/in/janebowman</p>
+        <h1>EXPERIENCE</h1>
+        <p><b>Head of Web Development</b><i> 2018 - Present</i></p>
+            <ul>
+                <li>Keep the site up to date with what is going on within the organization</li>
+                <li>Update the features of the site to make it as accessible as possible</li>
+                <li>Ensure that the site is aesthetically pleasing and attracts an audience</li>
+            </ul>
+        <p><b>Social Media Intern</b><i> May - August 2019</i></p>
+             <ul>
+                <li>Created strategies to help bring attention to the business</li>
+                <li>Modernized feeds to attract a younger demographic</li>
+                <li>Planned a posting schedule to ensure a regulated schedule</li>
+            </ul>
+        <h1>EDUCATION</h1>
+        <p><b>Information Management & Technology</b><i> Class of 2021</i></p>
+        <p><b>Syracuse University, London</b><i> Summer 2019</i></p>
+    </body>
