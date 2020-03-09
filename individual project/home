@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>College Sustainability</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"
+</head>
+
+<body>
+    <ul class="nav">
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/home.html">Home</a></li>
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/eat.html">Eat</a></li>
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/live.html">Live</a></li>
+    </ul>
+
+    <h2>College Sustainability</h2>
+    <h3>Why go sustainable?:</h3>
+    <p>With our current world's ecological climate, it is imperative for our generation to turn around the effects of pollution we have created. Lowering one's ecological footprint as a college student can be expensive and stressful, so this site is here to help you learn about simple steps to take to lower your carbon footprint.</p>
+
+    <h3>About the author:</h3>
+    <p>I am a student at Syracuse University who has recently become aware of the amount of waste I produce. For the past two years I have been making a conscious effort to reduce my carbon footprint. I have done lots of research and am excited to teach my fellow students about the topic.</p>
+</body>
+</html>
