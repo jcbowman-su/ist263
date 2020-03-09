@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Live Sustainably</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"
+</head>
+
+<body>
+    <ul class="nav">
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/home.html">Home</a></li>
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/eat.html">Eat</a></li>
+        <li><a href="file:///Users/janebowman/Downloads/news-page-lab/individual%20project/live.html">Live</a></li>
+    </ul>
+
+    <h2>How to Live Sustainably</h2>
+    <h3>Tip #1: Buy Less Waste</h3>
+    <p>Shopping waste-free can be challenging, but more waste-free grocery stores are popping up everywhere.<a href="https://www.youtube.com/watch?v=WqabrJ8fY9E">Check out this video about Lauren Singer's Package Free Shop.</a> </p>
+
+    <h3 style="text-align: right;">Tip #2: Try Alternative Transportation Methods</h3>
+    <p style="text-align: right;">Take a walk or bike to work. If it's too far or the weather is not in your favor, try public transportation like buses or subways.</p>
+</body>
+</html>
